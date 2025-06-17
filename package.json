@@ -1,0 +1,26 @@
+{
+  "name": "check-even-odd-hehehe",
+  "version": "1.0.0",
+  "description": "A simple utility to check if a number is even or odd.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miennc/is-even-or-odd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Miennc/is-even-or-odd/issues"
+  },
+  "homepage": "https://github.com/Miennc/is-even-or-odd#readme",
+  "keywords": [
+    "even",
+    "odd",
+    "number",
+    "utility",
+    "javascript"
+  ],
+  "author": "Miennc",
+  "license": "MIT"
+}
